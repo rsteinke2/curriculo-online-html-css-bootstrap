@@ -1,3 +1,11 @@
+Exemplo de página Curriculo Online utilizando ferramentas de desenvolvimento WEB
+
+HTML
+CSS
+Bootstrap
+
+
+
 # CvOnline
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
